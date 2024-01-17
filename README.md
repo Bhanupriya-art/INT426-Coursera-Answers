@@ -4,6 +4,11 @@
 
 ## Week 1 Solution
 
+## Note:-  
+```bash 
+If anyone facing any doubts in these answers then he/she can refer to the images uploaded in the week-wise folder
+```
+
 # Introduction to Generative AI: Quiz
 
 ### Q.1 What is Generative AI?
