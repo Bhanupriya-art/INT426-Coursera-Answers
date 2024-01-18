@@ -2,7 +2,7 @@
 
 ## Link of Courses For Week 1:- https://www.coursera.org/programs/int426-generative-ai-8n6df/learn/introduction-to-generative-ai<br><br>https://coursera.org/programs/int426-generative-ai-8n6df/learn/generative-ai-for-everyone
 
-## Week 1 Solution
+## Week 1 Solution According to College IP
 
 ## Note:-  
 ```bash 
