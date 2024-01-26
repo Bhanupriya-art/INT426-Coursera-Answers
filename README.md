@@ -296,7 +296,7 @@ If anyone facing any doubts in these answers then he/she can refer to the images
 
 ## Week 3 Solution According to College IP
 
-## Link of Courses for week 3:- https://www.coursera.org/learn/generative-ai <br> <br> https://www.coursera.org/learn/introduction-to-large-language-models
+## Link of Courses for week 3:- https://www.coursera.org/learn/generative-ai <br> <br> https://www.coursera.org/learn/introduction-to-large-language-models<br><br> https://www.coursera.org/learn/prompt-engineering/home/week/1
 
 # Generative AI Primer
 
@@ -455,3 +455,38 @@ Answer:- 1. They can be used to generate harmful content.
 2. They can be biased.
 3. They can be expensive to train.
 ```
+
+# Prompt Engineering for ChatGPT: Module 1
+
+## Week 1: Creating Your First Prompts
+
+### Q.1 Create a prompt for a large language model, such as ChatGPT, to describe how large language models work. Ask at least three follow-up questions based on the output. Provide the prompts and outputs from the conversation as the answer.
+```
+Answer:-
+Prompt: Can you explain how large language models like ChatGPT work?
+
+Output:
+Large language models like ChatGPT work through a process called pre-training and fine-tuning. In the pre-training phase, the model is trained on a massive dataset containing parts of the Internet to learn grammar, facts, reasoning abilities, and some domain-specific knowledge. This helps the model develop a broad understanding of language. After pre-training, the model is fine-tuned on a narrower dataset with more specific examples and guidelines to align it with desired behaviors.
+
+Follow-up Question 1: How does the fine-tuning process contribute to the model's performance in specific tasks?
+
+Follow-up Question 2: Can you elaborate on the types of data used in pre-training and how it affects the model's general language understanding?
+
+Follow-up Question 3: Are there any limitations or challenges associated with the pre-training and fine-tuning approaches that impact the model's capabilities?
+```
+
+### Q.2 Create a prompt for a large language model, such as ChatGPT, that asks it to perform an instruction other than answering a question. For example, ask ChatGPT to create a meal plan, plan a trip, create a recipe, or help you diagnose a problem. Provide the prompts and outputs from the conversation as the answer.
+```
+Answer:-
+Prompt: Can you help me plan a week-long vacation to a tropical destination?
+
+Output:
+Certainly! To get started, could you please provide some details such as your preferred travel dates, budget range, and any specific activities or interests you have in mind for the vacation?
+
+Follow-up Question 1: What type of accommodation are you looking for, such as a hotel, resort, or vacation rental?
+
+Follow-up Question 2: Are there any particular destinations or countries you have in mind, or would you like suggestions based on your preferences?
+
+Follow-up Question 3: Do you have any dietary restrictions or preferences that I should consider when recommending restaurants or local cuisines at the destination?
+```
+
