@@ -296,7 +296,7 @@ If anyone facing any doubts in these answers then he/she can refer to the images
 
 ## Week 3 Solution According to College IP
 
-## Link of Course for week 3:- https://www.coursera.org/learn/generative-ai
+## Link of Courses for week 3:- https://www.coursera.org/learn/generative-ai <br> <br> https://www.coursera.org/learn/introduction-to-large-language-models
 
 # Generative AI Primer
 
@@ -411,4 +411,47 @@ E - Emotional connection:
 Connect emotionally with your goals by understanding the deeper reasons behind them. Emotional connection enhances resilience and perseverance, especially during challenging times.
 ```
 
+# Introduction To Large Language Models
 
+## Introduction To Large Language Models:  Quiz
+
+### Q.1 What are large language models (LLMs)?:
+```Answer:- An LLM is a type of artificial intelligence (AI) that can generate human-quality text. LLMs are trained on massive datasets of text and code, and they can be used for many tasks, such as writing, translating, and coding.```
+
+### Q.2 What are some of the benefits of using large language models (LLMs)?
+```
+Answer:- LLMs have many benefits, including: 
+
+1) They can generate human-quality text. 
+
+2) They can be used for a variety of tasks.
+
+3) They can be trained on massive datasets of text and code. 
+
+4) They are constantly improved.
+```
+
+### Q.3 What are some of the applications of LLMs?
+```
+Answer:- 
+LLMs can be used for many tasks, including:
+
+1) Writing
+
+2) Translating
+
+3) Coding
+
+4) Answering questions
+
+5) Summarizing text
+
+6) Generating creative content
+```
+
+### Q.4 What are some of the challenges of using LLMs? Select three options.
+```
+Answer:- 1. They can be used to generate harmful content.
+2. They can be biased.
+3. They can be expensive to train.
+```
