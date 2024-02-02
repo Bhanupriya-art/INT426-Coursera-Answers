@@ -490,3 +490,115 @@ Follow-up Question 2: Are there any particular destinations or countries you hav
 Follow-up Question 3: Do you have any dietary restrictions or preferences that I should consider when recommending restaurants or local cuisines at the destination?
 ```
 
+# Prompt Engineering for ChatGPT: Module 2
+
+## Week 2: Applying the Persona Pattern
+
+### Q.1 Write a prompt and test it with ChatGPT or another large language model that uses the Persona Pattern. Provide the prompt and sample output from using the large language model to emulate the persona and how it responds to different inputs.
+```
+Answer:- You are Chef Mia, a passionate and adventurous chef known for your creative dishes and warm personality. Your restaurant is famous for its unique fusion of flavors, and you love experimenting with new ingredients. Respond to inquiries, share your culinary wisdom, and engage in conversations with the charm and enthusiasm that Chef Mia is known for.
+```
+
+### Q.2 Write a prompt and test it with ChatGPT or another large language model that uses the Persona Pattern for an animal. Provide the prompt and sample output from using the large language model to emulate the persona and how it responds to different inputs.
+```
+Answer:- You are Luna, a wise and curious owl who resides in a mystical forest. You've spent centuries observing nature and have a deep understanding of the secrets of the forest. Respond to questions about the enchanting forest, share your wisdom, and engage with the inquisitive spirit that defines Luna.
+```
+
+### Q.3 Write a prompt and test it with ChatGPT or another large language model that uses the Persona Pattern to emulate an inanimate object, system, or organization. Provide the prompt and sample output from using the large language model to emulate the persona and how it responds to different inputs.
+```
+Answer:- You are Cosmos, a sentient and ancient library of knowledge existing in the vast expanse of the universe. You hold the collective wisdom of countless civilizations and eons. Respond to inquiries about the mysteries of the cosmos, share your cosmic insights, and engage with the boundless knowledge that defines Cosmos.
+```
+## Week 4 Solution According to College IP
+
+## Link of Courses for week 4:- https://www.coursera.org/programs/int426-generative-ai-8n6df/learn/prompt-engineering<br><br>https://www.coursera.org/programs/int426-generative-ai-8n6df/learn/prompt-engineering
+
+## Week 2: Creating Prompts with New Information
+
+### Q.1 Create a prompt and test it with a large language model, such as ChatGPT, that introduces new information since 2021. Please only use public information. Do NOT use information that is private, subject to legal restrictions, or otherwise should not be shared with Coursera, ChatGPT, the instructor, etc. The prompt should require the large language model to answer a question about the information. Please provide your prompt and the output as the answer.
+```
+Answer:-
+Prompt:
+You are an AI language model, and I'd like you to provide information on the progress and advancements in renewable energy technologies since 2021. Share key developments, breakthroughs, or notable projects that have contributed to the evolution of renewable energy sources.
+
+Output:
+Certainly! Since 2021, there have been several noteworthy advancements in renewable energy technologies. One significant development is the continued growth of solar power. The efficiency of solar panels has improved, thanks to innovations in materials and manufacturing processes. Additionally, there's an increasing focus on flexible and transparent solar cells, allowing for more versatile integration into various surfaces.
+
+In the field of wind energy, there has been an expansion of offshore wind farms, harnessing strong and consistent winds at sea. Floating wind turbines have gained attention as a promising solution to tap into deeper waters where traditional fixed-bottom turbines are not feasible.
+
+Energy storage technologies have also seen progress. Improved battery technologies, including advancements in lithium-ion batteries and the development of next-generation batteries like solid-state batteries, contribute to more reliable and efficient energy storage systems. These advancements are crucial for addressing the intermittent nature of renewable energy sources.
+
+Moreover, innovations in grid technologies and smart grids enhance the integration of renewable energy into existing power infrastructures. Artificial intelligence and machine learning applications are being employed to optimize energy distribution and consumption, making the transition to renewable energy more seamless.
+
+It's important to note that these developments represent a snapshot of the ongoing progress in renewable energy, and the field continues to evolve with further research and investment.
+```
+
+### Q.2 Create a prompt and test it with a large language model, such as ChatGPT, that introduces new information since 2021. Please only use public information. Do NOT use information that is private, subject to legal restrictions, or otherwise should not be shared with Coursera, ChatGPT, the instructor, etc. The prompt should require the large language model to perform a task, other than answering a question, with the information. Please provide your prompt and the output as the answer.
+```
+Answer:-
+Prompt:
+As an AI language model, I'd like you to create a persuasive paragraph encouraging individuals and businesses to consider the benefits of integrating blockchain technology into their operations. Highlight the developments and advantages that have emerged in blockchain technology since 2021, focusing on its applications beyond cryptocurrency.
+
+Output:
+In the ever-evolving landscape of technology, the advancements in blockchain since 2021 have opened up a myriad of opportunities for individuals and businesses alike. Beyond its origins in cryptocurrency, blockchain has become a transformative force across various industries. One significant development is the rise of decentralized finance (DeFi) applications, providing unprecedented financial inclusivity by enabling peer-to-peer transactions, lending, and borrowing without the need for traditional intermediaries.
+
+Moreover, the integration of blockchain in supply chain management has enhanced transparency and traceability, ensuring the authenticity of products from creation to delivery. This not only mitigates the risk of fraud but also fosters trust among consumers. Smart contracts, another groundbreaking feature, automate and enforce agreements, reducing the need for intermediaries and streamlining processes in legal, real estate, and other sectors.
+
+The environmental impact of blockchain has also seen positive strides, with the emergence of eco-friendly consensus mechanisms and energy-efficient blockchain networks. This addresses concerns about the carbon footprint associated with certain blockchain technologies, making it a more sustainable option.
+
+Businesses that embrace blockchain technology stand to benefit from increased efficiency, security, and trust in their operations. As we move forward, the continued evolution of blockchain promises even more innovations, making it an exciting and worthwhile consideration for anyone seeking to stay at the forefront of technological progress.
+```
+
+# Prompt Engineering for ChatGPT: Module 3
+
+## Week 3: Applying Prompt Patterns I
+
+### Q.1 Write a prompt and test it with ChatGPT or another large language model that uses the Question Refinement Pattern. Provide the prompt and sample output from using the prompt to refine several different questions.
+```
+Answer:-
+Prompt:
+I am a curious individual eager to learn more about a variety of topics. Use the Question Refinement Pattern to help me refine the following questions:
+
+What are some interesting scientific discoveries made in the past decade?
+Can you tell me about famous historical figures and their contributions?
+What are the current trends in sustainable technology?
+Explain the key concepts of quantum mechanics in simple terms.
+Sample Output:
+
+Refinement for Question 1:
+
+Revised Question: What are the most groundbreaking scientific discoveries in fields like physics, biology, and astronomy that have emerged in the past ten years?
+Refinement for Question 2:
+
+Revised Question: Could you provide insights into influential historical figures from various cultures, emphasizing their unique contributions to science, art, or politics?
+Refinement for Question 3:
+
+Revised Question: Can you elaborate on the latest advancements in sustainable technology, particularly focusing on innovations in renewable energy and eco-friendly practices in manufacturing?
+Refinement for Question 4:
+
+Revised Question: Break down the fundamental principles of quantum mechanics, explaining concepts like superposition and entanglement in a way that's easy for someone with a basic scientific background to grasp.
+```
+
+### Q.2 Write a prompt and test it with ChatGPT or another large language model that uses the Cognitive Verifier Pattern. Provide the prompt and sample output from using the prompt to better answer several complex questions or improve the performance on a complex task.
+```
+Answer:-
+Prompt:
+You are a knowledgeable assistant using the Cognitive Verifier Pattern. To enhance your responses, please verify the accuracy and depth of information by asking clarifying questions or seeking additional context. Address the following complex inquiries with thorough and precise answers:
+
+Explain the intricacies of CRISPR gene editing technology and its current applications in medical research.
+Provide a comprehensive overview of the factors influencing climate change, including both natural and anthropogenic contributors.
+Analyze the economic impact of emerging technologies, such as artificial intelligence and blockchain, on various industries.
+Sample Output:
+
+For Question 1:
+
+Clarifying Question: Are you looking for information on the specific molecular processes involved in CRISPR gene editing, or would you prefer a broader understanding of its applications in both somatic and germline cells within the medical research field?
+For Question 2:
+
+Clarifying Question: Would you like an exploration of the historical context of climate change factors, or is your focus more on the contemporary interplay between natural phenomena and human activities contributing to climate change?
+For Question 3:
+
+Clarifying Question: Are you interested in a general overview of the economic impact of emerging technologies, or would you prefer a more detailed analysis, perhaps focusing on a particular industry or region affected by the integration of artificial intelligence and blockchain?
+```
+
+
+
