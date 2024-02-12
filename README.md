@@ -600,5 +600,200 @@ For Question 3:
 Clarifying Question: Are you interested in a general overview of the economic impact of emerging technologies, or would you prefer a more detailed analysis, perhaps focusing on a particular industry or region affected by the integration of artificial intelligence and blockchain?
 ```
 
+## Week 5 & 6 Solution According to College IP
+
+## Link of Courses for week 4:- https://www.coursera.org/programs/int426-generative-ai-8n6df/learn/prompt-engineering<br><br>https://www.coursera.org/programs/int426-generative-ai-8n6df/learn/prompt-engineering
+
+# Prompt Engineering for ChatGPT: Module 4
+
+## Week 4:- Applying Few-Shot Examples Concepts
+
+### Q.1 Write a prompt and test it with ChatGPT or another large language model that uses few-shot examples to teach the large language model to perform a complex task. Provide the prompt and sample output from using the prompt.
+```
+Answer:-
+Prompt:
+
+You're a travel agent tasked with creating personalized travel itineraries for clients based on their preferences. Write a few-shot prompt to train a large language model to generate a travel itinerary based on a client's interests and constraints.
+
+Few-shot Examples:
+
+Client: "I love nature and adventure. I want to explore a destination known for its lush forests, hiking trails, and opportunities for outdoor activities like zip-lining and kayaking."
+Client: "I'm a history enthusiast interested in ancient civilizations and cultural landmarks. I'm looking for a destination rich in historical sites and museums."
+Client: "I'm a foodie who wants to indulge in culinary delights. I'm seeking a destination renowned for its street food, local markets, and diverse cuisine."
+Client: "I'm a beach lover and sunseeker. I'm searching for a destination with pristine beaches, turquoise waters, and opportunities for water sports like snorkeling and surfing."
+Sample Output:
+
+Client's Interests: Nature and Adventure
+
+Based on your preferences for nature and adventure, I recommend you explore the breathtaking landscapes of New Zealand. Here's a personalized itinerary for your trip:
+
+Day 1: Arrive in Auckland, New Zealand. Check into your accommodation and spend the evening exploring the city's vibrant waterfront and dining scene.
+
+Day 2: Head to Rotorua, known for its geothermal wonders and Maori culture. Take a thrilling zipline adventure through the Redwoods Forest, followed by a relaxing soak in natural hot springs.
+
+Day 3: Drive to Tongariro National Park and embark on the famous Tongariro Alpine Crossing, a challenging but rewarding hike through volcanic terrain with stunning views of Mt. Ngauruhoe.
+
+Day 4: Travel to Queenstown, the adventure capital of New Zealand. Spend the day kayaking on Lake Wakatipu or bungee jumping off the iconic Kawarau Bridge.
+
+Day 5: Explore Fiordland National Park on a scenic cruise through Milford Sound, where you'll witness cascading waterfalls, towering cliffs, and abundant wildlife.
+
+Day 6: Return to Auckland for your departure, taking in any last-minute adventures or souvenir shopping along the way.
+
+This itinerary combines adrenaline-pumping activities with breathtaking natural beauty, ensuring an unforgettable adventure in New Zealand.
+```
+
+### Q.2 Write a prompt and test it with ChatGPT or another large language model that uses few-shot examples to teach the large language model to perform a complex task that requires performing intermediate sub-steps. Provide the prompt and sample output from using the prompt.
+```
+Answer:-
+Prompt:
+
+You're a baking instructor teaching a class on how to make a classic chocolate cake. Write a few-shot prompt to train a large language model to guide students through the step-by-step process of making a chocolate cake, including instructions for preparing the batter, baking the cake, and decorating it.
+
+Few-shot Examples:
+
+Instruction: "Mix the dry ingredients together in a large bowl: flour, cocoa powder, baking powder, baking soda, and salt."
+Instruction: "In a separate bowl, cream together the butter and sugar until light and fluffy."
+Instruction: "Add the eggs, one at a time, to the butter-sugar mixture, beating well after each addition."
+Instruction: "Alternate adding the dry ingredients and the milk to the butter-sugar-egg mixture, beginning and ending with the dry ingredients."
+Sample Output:
+
+Instruction: Mix the dry ingredients together in a large bowl: flour, cocoa powder, baking powder, baking soda, and salt.
+
+Great! Now that you have your dry ingredients combined, let's move on to the next step.
+
+Instruction: In a separate bowl, cream together the butter and sugar until light and fluffy.
+
+Excellent! Creaming the butter and sugar together will help give our chocolate cake a tender and moist texture. Make sure to beat them until they're well combined and the mixture is light and fluffy.
+
+Instruction: Add the eggs, one at a time, to the butter-sugar mixture, beating well after each addition.
+
+Perfect! Adding the eggs one at a time ensures that they're fully incorporated into the batter, giving our cake structure and richness. Be sure to beat well after each addition to fully mix in the eggs.
+
+Instruction: Alternate adding the dry ingredients and the milk to the butter-sugar-egg mixture, beginning and ending with the dry ingredients.
+
+Well done! Alternating between adding the dry ingredients and the milk helps to ensure that the batter is evenly mixed and avoids overmixing, which can lead to a dense cake. Remember to start and finish with the dry ingredients to maintain the proper balance of ingredients.
+
+Now that your batter is ready, you can pour it into prepared cake pans and bake according to the recipe instructions. Once the cakes are baked and cooled, feel free to decorate them with frosting or toppings of your choice. Enjoy your delicious homemade chocolate cake!
+```
+
+# Prompt Engineering for ChatGPT: Module 5
+
+## Week 5:- Applying Prompt Patterns II
+
+### Q.1 Choose one of the patterns from this module and write a sample prompt using the pattern. Provide the prompt and output of using the prompt in ChatGPT or another large language model. 
+```
+Answer:-
+Pattern: Problem-Solution
+
+Prompt:
+
+You're a homeowner dealing with a clogged kitchen sink drain. Write a problem-solution prompt to train a large language model to help you troubleshoot and fix the issue.
+
+Few-shot Examples:
+
+Problem: "My kitchen sink drain is clogged, and water is backing up into the sink."
+Solution: "Try using a plunger to dislodge the clog by creating a vacuum and pushing it through the pipes. If that doesn't work, you can attempt to remove the trap under the sink and manually clear the blockage."
+Problem: "The water in my kitchen sink is draining very slowly."
+Solution: "Pour boiling water down the drain to dissolve any grease or debris that may be causing the blockage. Alternatively, you can mix baking soda and vinegar to create a fizzy reaction that can help break up the clog. Follow it up with hot water to flush out the pipes."
+Problem: "There's a foul odor coming from my kitchen sink drain."
+Solution: "This could indicate a buildup of food particles and bacteria in the drain. Try pouring a mixture of hot water and bleach down the drain to sanitize it and eliminate the odor. You can also use citrus peels or baking soda to freshen up the drain naturally."
+Sample Output:
+
+Problem: My kitchen sink drain is clogged, and water is backing up into the sink.
+
+Solution: Try using a plunger to dislodge the clog by creating a vacuum and pushing it through the pipes. If that doesn't work, you can attempt to remove the trap under the sink and manually clear the blockage.
+
+Great! Let's start by using a plunger to see if we can clear the clog. Make sure there's enough water in the sink to cover the plunger's cup, then place the plunger over the drain and push and pull in a vigorous motion to create suction. This action can help dislodge the blockage and allow the water to flow freely again.
+
+If the plunger doesn't do the trick, we can move on to removing the trap under the sink. Grab a bucket to catch any water or debris that may come out, then use a wrench to loosen the slip nuts on both ends of the trap. Once the trap is removed, you can manually clear out any obstructions using a wire hanger or plumber's snake.
+
+Give these methods a try, and hopefully, your kitchen sink will be back to normal in no time! If you need further assistance, feel free to ask for more advice.
+```
+
+### Q.2 Choose another one of the patterns from this module and write a sample prompt using the pattern. This prompt must be applied to some information that you provide in the prompt before the pattern. Provide the prompt and output of using the prompt in ChatGPT or another large language model. 
+```
+Answer:-
+Pattern: Compare and Contrast
+
+Prompt:
+
+You're a student deciding between two universities to attend for your undergraduate studies: University A and University B. University A is known for its strong engineering program, while University B is renowned for its liberal arts curriculum. Write a compare and contrast prompt to train a large language model to help you weigh the pros and cons of each university.
+
+Information:
+
+University A:
+
+Strong engineering program
+Urban campus with access to industry partnerships
+Large student population with diverse extracurricular activities
+University B:
+
+Renowned liberal arts curriculum
+Beautiful suburban campus with extensive green spaces
+Small class sizes with personalized attention from faculty
+Sample Output:
+
+Compare and Contrast:
+
+University A:
+
+Strengths: Offers a strong engineering program with access to industry partnerships due to its urban campus. It also boasts a large student population, providing a diverse range of extracurricular activities.
+Weaknesses: However, it may have larger class sizes and less personalized attention from faculty compared to University B.
+University B:
+
+Strengths: Renowned for its liberal arts curriculum and beautiful suburban campus with extensive green spaces. Additionally, its small class sizes ensure personalized attention from faculty.
+Weaknesses: Yet, it might lack the same level of industry connections and opportunities for engineering students as University A.
+When considering which university to attend, it's essential to weigh these factors carefully. If you prioritize a strong engineering program and access to industry partnerships, University A may be the better choice. However, if you value a liberal arts education in a more intimate setting with personalized attention from faculty, University B might be the ideal fit for you. Take your time to evaluate your preferences and make an informed decision that aligns with your academic and personal goals.
+```
+
+# Prompt Engineering for ChatGPT: Module 6
+
+## Week 5:- Creating a Prompt-based Application
+
+### Q.1 Develop your own prompt-based application, similar to the outlining application from the videos, to help you accomplish a task. Your application can do whatever you want and does not have to be focused on outlining. Come up with a creative way of using large language models to program an environment to solve a problem you face on a daily basis.<br>Provide your prompt and a sample of using the prompt-based application. 
+```
+Answer:-
+Prompt:
+
+You're a busy professional who struggles to stay organized with your daily tasks and appointments. Develop a prompt-based application to help you manage your schedule efficiently. Your application should allow you to input tasks, set deadlines, receive reminders, and prioritize tasks based on urgency and importance.
+
+Sample Usage:
+
+User: Add a new task.
+Application: What is the title of the task?
+User: Prepare presentation for Monday meeting.
+Application: Please enter the deadline for this task.
+User: The deadline is Sunday evening.
+Application: Task "Prepare presentation for Monday meeting" added with a deadline of Sunday evening.
+
+User: Set a reminder for the upcoming task.
+Application: Which task would you like to set a reminder for?
+User: Prepare presentation for Monday meeting.
+Application: When would you like to receive the reminder?
+User: Saturday afternoon.
+Application: Reminder set for the task "Prepare presentation for Monday meeting" on Saturday afternoon.
+
+User: Prioritize tasks.
+Application: Please list the tasks you want to prioritize.
+User: 1. Finish report for client. 2. Prepare presentation for Monday meeting. 3. Call supplier for updates.
+Application: Task priorities updated.
+
+User: View tasks for today.
+Application: Here are your tasks for today:
+
+Finish report for client (Priority: High, Deadline: Today)
+Call supplier for updates (Priority: Medium, Deadline: Tomorrow)
+User: Mark task as complete.
+Application: Which task would you like to mark as complete?
+User: Finish report for client.
+Application: Task "Finish report for client" marked as complete.
+
+User: Help.
+Application: What assistance do you need?
+User: I forgot the deadline for a task.
+Application: Please provide the title of the task you need the deadline for.
+User: Prepare presentation for Monday meeting.
+Application: The deadline for the task "Prepare presentation for Monday meeting" is Sunday evening.
+``` 
 
 
