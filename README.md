@@ -748,7 +748,7 @@ When considering which university to attend, it's essential to weigh these facto
 
 # Prompt Engineering for ChatGPT: Module 6
 
-## Week 5:- Creating a Prompt-based Application
+## Week 6:- Creating a Prompt-based Application
 
 ### Q.1 Develop your own prompt-based application, similar to the outlining application from the videos, to help you accomplish a task. Your application can do whatever you want and does not have to be focused on outlining. Come up with a creative way of using large language models to program an environment to solve a problem you face on a daily basis.<br>Provide your prompt and a sample of using the prompt-based application. 
 ```
