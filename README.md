@@ -822,5 +822,48 @@ Application: The deadline for the task "Prepare presentation for Monday meeting"
 
 ### Q.9 Scaling laws for pre-training large language models consider several aspects to maximize performance of a model within a set of constraints and available scaling choices. Select all alternatives that should be considered for scaling when performing model pre-training?<br><br>Answer:-<br>1. Dataset size: Number of tokens<br>2. Model size: Number of parameters<br>3. Compute budget: Compute constraints
 
-### Q.10 "You can combine data parallelism with model parallelism to train LLMs."<br>Is this true or false?
+### Q.10 "You can combine data parallelism with model parallelism to train LLMs."<br>Is this true or false?<br><br>Answer:- True
 
+## Week 2:- Week 2 quiz
+
+### Q.1 Fill in the blanks: involves using many prompt-completion examples as the labeled training dataset to continue training the model by updating its weights. This is different from where you provide prompt-completion examples during inference.<br><br>Answer:- Instruction fine-tuning, In-context learning
+
+### Q.2 Fine-tuning a model on a single task can improve model performance specifically on that task; however, it can also degrade the performance of other tasks as a side effect. This phenomenon is known as:<br><br>Answer:- Catastrophic forgetting
+
+### Q.3 Which evaluation metric below focuses on precision in matching generated output to the reference text and is used for text translation?<br><br>Answer:- BLEU
+
+### Q.4 Which of the following statements about multi-task finetuning is correct? Select all that apply:<br><br>Answer:-<br>1. Multi-task finetuning can help prevent catastrophic forgetting.<br>2. FLAN-T5 was trained with multi-task finetuning.
+
+### Q.5 "Smaller LLMs can struggle with one-shot and few-shot inference:"<br>Is this true or false?<br><br>Answer:- True
+
+### Q.6 Which of the following are Parameter Efficient Fine-Tuning (PEFT) methods? Select all that apply.<br><br>Answer:-<br>1. Reparameterization<br>2. Selective<br>3. Additive
+
+### Q.7 Which of the following best describes how LoRA works?<br><br>Answer:- LoRA decomposes weights into two smaller rank matrices and trains those instead of the full model weights.
+
+### Q.8 What is a soft prompt in the context of LLMs (Large Language Models)?<br><br>Answer:- A set of trainable tokens that are added to a prompt and whose values are updated during additional training to improve performance on specific tasks.
+
+### Q.9 "Prompt Tuning is a technique used to adjust all hyperparameters of a language model."<br>Is this true or false?<br><br>Answer:- False
+
+### Q.10 "PEFT methods can reduce the memory needed for fine-tuning dramatically, sometimes to just 12-20% of the memory needed for full fine-tuning."<br>Is this true or false?<br><br>Answer:- True
+
+## Week 3:- Week 3 quiz
+
+### Q.1 Which of the following are true in regards to Constitutional Al? Select all that apply.<br><br>Answer:-<br>1. Red Teaming is the process of eliciting undesirable responses by interacting with a model.<br>2. In Constitutional Al, we train a model to choose between different responses.<br>3. To obtain revised answers for possible harmful prompts, we need to go through a Critique and Revision process.
+
+### Q.2 What does the "Proximal" in Proximal Policy Optimization refer to?<br><br>Answer:- The constraint that limits the distance between the new and old policy
+
+### Q.3 "You can use an algorithm other than Proximal Policy Optimization to update the model weights during RLHF."<br>Is this true or false?<br><br>Answer:- True
+
+### Q.4 In reinforcement learning, particularly with the Proximal Policy Optimization (PPO) algorithm, what is the role of KL-Divergence? Select all that apply.<br><br>Answer:-<br>1. KL divergence measures the difference between two probability distributions.<br>2. KL divergence is used to enforce a constraint that limits the extent of LLM weight updates.
+
+### Q.5 Fill in the blanks: When fine-tuning a large language model with human feedback, the action that the agent (in this case the LLM) carries out is __________ and the action space is the ____________.<br><br>Answer:- Generating the next token, vocabulary of all tokens.
+
+### Q.6 How does Retrieval Augmented Generation (RAG) enhance generation-based models?<br><br>Answer:- By making external knowledge available to the model
+
+### Q.7 How can incorporating information retrieval techniques improve your LLM application? Select all that apply.<br><br>Answer:-<br>1. Overcome Knowledge Cut-offs<br>2. Improve relevance and accuracy of responses
+
+### Q.8 What are correct definitions of Program-aided Language (PAL) models? Select all that apply.<br><br>Answer:-<br>1. Models that offload computational tasks to other programs.<br>2. Models that assist programmers in writing code through natural language interfaces.
+
+### Q.9 Which of the following best describes the primary focus of ReAct?<br><br>Answer:- Enhancing language understanding and decision making in LLMs.
+
+### Q.10 What is the main purpose of the LangChain framework?<br><br>Answer:- To chain together different components and create advanced use cases around LLMs, such as chatbots, Generative Question-Answering (GQA), and summarization.
