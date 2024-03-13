@@ -602,7 +602,7 @@ Clarifying Question: Are you interested in a general overview of the economic im
 
 ## Week 5 & 6 Solution According to College IP
 
-## Link of Courses for week 4:- https://www.coursera.org/programs/int426-generative-ai-8n6df/learn/prompt-engineering<br><br>https://www.coursera.org/programs/int426-generative-ai-8n6df/learn/prompt-engineering
+## Link of Courses for week 5 & 6:- https://www.coursera.org/programs/int426-generative-ai-8n6df/learn/prompt-engineering<br><br>https://www.coursera.org/programs/int426-generative-ai-8n6df/learn/prompt-engineering
 
 # Prompt Engineering for ChatGPT: Module 4
 
@@ -796,4 +796,31 @@ User: Prepare presentation for Monday meeting.
 Application: The deadline for the task "Prepare presentation for Monday meeting" is Sunday evening.
 ``` 
 
+## Week 7,8 & 9 Solution According to College IP
+
+## Link of Courses for week 7,8 & 9:- https://www.coursera.org/learn/generative-ai-with-llms
+
+# Generative AI with Large Language Models
+
+## Week 1:- Week 1 quiz
+
+### Q.1 Interacting with Large Language Models (LLMs) differs from traditional machine learning models.  Working with LLMs involves natural language input, known as a  _____, resulting in output from the Large Language Model, known as the ______ .<br><br>Answer:- prompt, completion
+
+### Q.2 Large Language Models (LLMs) are capable of performing multiple tasks supporting a variety of use cases.  Which of the following tasks supports the use case of converting code comments into executable code?<br><br>Answer:- Translation
+
+### Q.3 What is the self-attention that powers the transformer architecture?<br><br>Answer:- A mechanism that allows a model to focus on different parts of the input sequence during computation.
+
+### Q.4 Which of the following stages are part of the generative AI model lifecycle mentioned in the course? (Select all that apply)<br><br>Answer:-<br>1. Deploying the model into the infrastructure and integrating it with the application.<br>2. Selecting a candidate model and potentially pre-training a custom model.<br>3. Manipulating the model to align with specific project needs.<br>4. Defining the problem and identifying relevant datasets.
+
+### Q.5 "RNNs are better than Transformers for generative Al Tasks."<br>Is this true or false?<br><br>Answer:- False
+
+### Q.6 Which transformer-based model architecture has the objective of guessing a masked token based on the previous sequence of tokens by building bidirectional representations of the input sequence.<br><br>Answer:- Autoencoder
+
+### Q.7 Which transformer-based model architecture is well-suited to the task of text translation?<br><br>Answer:- Sequence-to-sequence
+
+### Q.8 Do we always need to increase the model size to improve its performance?<br><br>Answer:- False
+
+### Q.9 Scaling laws for pre-training large language models consider several aspects to maximize performance of a model within a set of constraints and available scaling choices. Select all alternatives that should be considered for scaling when performing model pre-training?<br><br>Answer:-<br>1. Dataset size: Number of tokens<br>2. Model size: Number of parameters<br>3. Compute budget: Compute constraints
+
+### Q.10 "You can combine data parallelism with model parallelism to train LLMs."<br>Is this true or false?
 
