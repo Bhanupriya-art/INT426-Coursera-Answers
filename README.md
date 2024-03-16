@@ -887,3 +887,12 @@ https://github.com/Bhanupriya-art/INT426-Coursera-Answers/assets/120407422/76b83
 ### Q.9 Which of the following best describes the primary focus of ReAct?<br><br>Answer:- Enhancing language understanding and decision making in LLMs.
 
 ### Q.10 What is the main purpose of the LangChain framework?<br><br>Answer:- To chain together different components and create advanced use cases around LLMs, such as chatbots, Generative Question-Answering (GQA), and summarization.
+
+## Lab 3 - Fine-tune FLAN-T5 with reinforcement learning to generate more-positive summaries
+
+## In order to complete Lab 3 please watch the below given video carefully and do all the step as it is.
+
+
+
+https://github.com/Bhanupriya-art/INT426-Coursera-Answers/assets/120407422/73d4d7d0-f6b9-479c-8f91-63685cf7def6
+
