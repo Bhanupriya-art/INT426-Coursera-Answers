@@ -856,6 +856,16 @@ https://github.com/Bhanupriya-art/INT426-Coursera-Answers/assets/120407422/07b48
 
 ### Q.10 "PEFT methods can reduce the memory needed for fine-tuning dramatically, sometimes to just 12-20% of the memory needed for full fine-tuning."<br>Is this true or false?<br><br>Answer:- True
 
+## Lab 2 - Fine-tune a generative AI model for dialogue summarization
+
+## In order to complete Lab 2 please watch the below given video carefully and do all the step as it is.
+
+
+
+https://github.com/Bhanupriya-art/INT426-Coursera-Answers/assets/120407422/76b8369e-3644-4879-915f-a753908e42ce
+
+
+
 ## Week 3:- Week 3 quiz
 
 ### Q.1 Which of the following are true in regards to Constitutional Al? Select all that apply.<br><br>Answer:-<br>1. Red Teaming is the process of eliciting undesirable responses by interacting with a model.<br>2. In Constitutional Al, we train a model to choose between different responses.<br>3. To obtain revised answers for possible harmful prompts, we need to go through a Critique and Revision process.
