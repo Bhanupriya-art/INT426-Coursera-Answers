@@ -824,6 +824,16 @@ Application: The deadline for the task "Prepare presentation for Monday meeting"
 
 ### Q.10 "You can combine data parallelism with model parallelism to train LLMs."<br>Is this true or false?<br><br>Answer:- True
 
+## Lab 1 - Generative AI Use Case: Summarize Dialogue
+
+## In order to complete Lab 1 please watch the below given video carefully and do all the step as it is.
+
+
+
+https://github.com/Bhanupriya-art/INT426-Coursera-Answers/assets/120407422/07b48b2b-e1bc-426e-ac05-7621150337cc
+
+
+
 ## Week 2:- Week 2 quiz
 
 ### Q.1 Fill in the blanks: involves using many prompt-completion examples as the labeled training dataset to continue training the model by updating its weights. This is different from where you provide prompt-completion examples during inference.<br><br>Answer:- Instruction fine-tuning, In-context learning
