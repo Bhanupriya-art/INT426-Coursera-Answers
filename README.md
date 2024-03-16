@@ -896,3 +896,25 @@ https://github.com/Bhanupriya-art/INT426-Coursera-Answers/assets/120407422/76b83
 
 https://github.com/Bhanupriya-art/INT426-Coursera-Answers/assets/120407422/73d4d7d0-f6b9-479c-8f91-63685cf7def6
 
+
+
+
+## Week 10 Solution According to College IP
+
+## Link of Courses for week 10:- https://www.coursera.org/learn/learn-to-code-with-ai
+
+# Learn To Code With AI
+
+## Week 2:- Check your skills!
+
+### Q.1 Which language controls the styling of a web page?<br><br>Answer:- CSS
+
+### Q.2 What is the below code?<br> `<p>Class</p>`<br><br>Answer:- It's a HTML paragraph element
+
+### Q.3 What do we mean by the so-called "variables" in JavaScript?<br><br>Answer:- Variables are like containers that we use to store information
+
+### Q.4 What do we mean when we say that ChatGPT is "generative AI"?<br><br>Answer:-  It means that the AI is able to generate new and original content
+
+### Q.5 What does it mean to deploy a website?<br><br>Answer:- It's the act of making it available to users via the world wide web
+
+### Q.6 What is GitHub?<br><br>Answer:- It's a platform for version control and source code management
