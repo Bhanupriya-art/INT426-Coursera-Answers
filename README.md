@@ -901,7 +901,7 @@ https://github.com/Bhanupriya-art/INT426-Coursera-Answers/assets/120407422/73d4d
 
 ## Week 10 Solution According to College IP
 
-## Link of Courses for week 10:- https://www.coursera.org/learn/learn-to-code-with-ai
+## Link of Courses for week 10:- https://www.coursera.org/learn/learn-to-code-with-ai <br><br> https://www.coursera.org/programs/int426-generative-ai-batch-16-tfkqp/projects/chatgpt-for-beginners-save-time-with-microsoft-excel
 
 # Learn To Code With AI
 
@@ -918,3 +918,26 @@ https://github.com/Bhanupriya-art/INT426-Coursera-Answers/assets/120407422/73d4d
 ### Q.5 What does it mean to deploy a website?<br><br>Answer:- It's the act of making it available to users via the world wide web
 
 ### Q.6 What is GitHub?<br><br>Answer:- It's a platform for version control and source code management
+
+# ChatGPT for Beginners: Save time with Microsoft Excel
+
+## Assess Your Knowledge
+
+### Q.1 What are the potential benefits and applications of integrating ChatGPT with Excel, and how can it contribute to streamlining data-related tasks, analysis, and decision-making processes in various domains? (Select all that apply)<br><br>Answer:-<br>1. Help with writing and validating complex formulas<br>2. Assistance with standardizing and cleansing data<br>3. Conducting sentiment analysis in order to classify data
+
+### Q.2 In what ways can ChatGPT be utilized to address and resolve issues related to inconsistent date formats in Excel, and how does its functionality contribute to enhancing data organization and accuracy within the spreadsheet?<br><br>Answer:- By fixing inconsistent date formats within the ChatGPT console
+
+### Q.3 How does the use of formulas in ChatGPT contribute to the data cleansing process, and what specific advantages does it offer in terms of ensuring data accuracy, consistency, and improved data-driven decision-making in Excel?<br><br>Answer:- By generating formulas that can standardize, validate, and catogorize data
+
+### Q.4 In what ways can ChatGPT be utilized to facilitate the extraction of relevant text data from URLs, and what are the advantages of using its capabilities compared to traditional methods or existing web scraping tools when integrating this information into Excel for analysis and processing?<br><br>Answer:- By extracting text elements from URLs within the ChatGPT console like the root URL or page titles
+
+### Q.5 What are the limitations of ChatGPT when processing URLs, and what specific types of data extraction tasks might present challenges or be beyond the current capabilities of the system when attempting to extract information from webpages associated with the URLs?<br><br>Answer:- ChatGPT cannot extract images or videos from URLs
+
+### Q.6 To support decision-making processes and data-driven insights, what types of data can be effectively analyzed and classified based on sentiment analysis using ChatGPT?<br><br>Answer:- Textual data like customer reviews
+
+### Q.7 How should data analysts and professionals approach the ethical considerations and transparency when utilizing generated data? (Select all that apply)<br><br>Answer:-<br>1. By being transparent about the sources of data and methods of data generation<br>2. By ensuring data privacy and complying with relevant data protection regulations<br>3. By respecting the rights of data subjects, especially when dealing with sensitive data
+
+### Q.8 How does the strategic classification of data into groupings contribute to the overall data management and analysis process? (Select all that apply)<br><br>Answer:-<br>1. It improves data visualization<br>2. It enhances the ability to sort and filter data
+
+
+
