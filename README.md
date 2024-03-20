@@ -940,4 +940,86 @@ https://github.com/Bhanupriya-art/INT426-Coursera-Answers/assets/120407422/73d4d
 ### Q.8 How does the strategic classification of data into groupings contribute to the overall data management and analysis process? (Select all that apply)<br><br>Answer:-<br>1. It improves data visualization<br>2. It enhances the ability to sort and filter data
 
 
+## Week 11 Solution According to College IP
+
+## Link of Courses for week 10:- https://www.coursera.org/learn/rudi-hinds-chatgpt-playground-for-beginners-intro-to-nlp-ai<br><br>https://www.coursera.org/learn/build-ai-apps-with-chatgpt-dalle-gpt4
+
+# ChatGPT Playground for Beginners: Intro to NLP AI
+
+## Assess Your Knowledge
+
+### Q.1 What is the goal of Natural Language Processing (NLP) in the field of AI?<br><br>Answer:- To read, decipher, understand, and make sense of human language in a valuable way
+
+### Q.2 You're tracking the operational cost of your Chef ChatGPT program, and realize that the number of tokens used has increased. How will this impact the cost of operating Chef ChatGPT?<br><br>Answer:- More tokens lead to a higher cost.
+
+### Q.3 You're tasked with designing a chatbot aimed at providing factual information about scientific topics. How would you adjust the 'temperature' parameter to ensure that the responses are accurate and less likely to be random?<br><br>Answer:- Set the temperature to a low value
+
+### Q.4 You are designing a chatbot that needs to stick closely to the provided conversation context and should avoid introducing unrelated ideas. Which parameter would be helpful to adjust, and how should it be adjusted?<br><br>Answer:- Increase the presence penalty.
+
+### Q.5 In what way does the 'Chat' feature in GPT Playground differ from the 'Complete' mode when it comes to providing context?<br><br>Answer:- 'Chat' allows for the injection of context through user and system roles, while 'Complete' uses a singular prompt.
+
+# Build AI Apps with ChatGPT, Dall-E, and GPT-4 (For Students Who have 3 Weeks in their course)
+
+## Week 1: AI Quiz
+
+### Q.1 When you increase the temperature, what does that do to the completion?<br><br>Answer:- Makes it less conservative
+
+### Q.2 Which of the following statements accurately describes the max_tokens property in the OpenAI API?<br><br>Answer:- It sets the maximum number of tokens that can be generated in the completion.
+
+### Q.3 Which of the following is TRUE about the OpenAI API?<br><br>Answer:- It allows us to access OpenAI models from within our applications.
+
+### Q.4 Which of the following correctly defines a 'prompt' in the OpenAI API?<br><br>Answer:- The input text provided to guide the AI's response.
+
+### Q.5 What is meant by the term 'Zero-shot' when we are creating prompts?<br><br>Answer:- A prompt consisting of a request but no examples.
+
+### Q.6 What is meant by the term 'Few-shot' when we are creating prompts?<br><br>Answer:- A prompt with one or more examples demonstrating what we are looking for in a completion.
+
+### Q.7 What information are we REQUIRED to give the OpenAI API to generate an image (do not include parameters which have a default value).<br><br>Answer:- 1. A description of the image.
+
+### Q.8 Which of the following is true about the createCompletions endpoint?<br><br>Answer:- The model property must be used.
+
+## Week 2: AI Quiz
+
+### Q.1 Which of these best describes an OpenAI model's behaviour?<br><br>Answer:- It has no memory of previous prompts, so all of the context of a conversation must be included in every prompt.
+
+### Q.2 What should happen when presence_penalty is increased?<br><br>Answer:- The model should talk about new topics more often.
+
+### Q.3 Which one of the following is true?<br><br>Answer:- When working with the createChatCompletions endpoint, the messages property must contain and array of objects.
+
+### Q.4 The frequency_penalty setting gives us some control over...<br><br>Answer:- how likely the model is to use the same words and phrases in a completion.
+
+### Q.5 Which of the following is true about the array we send to the API in the messages property.<br><br>Answer:- The first object in the array should contain instructions telling the model how we want it to behave.
+
+### Q.6 Which of these best describes a firebase 'snapshot'.<br><br>Answer:- A copy of all of the database data as it exists at that moment.
+
+## Week 3: AI Quiz
+
+### Q.1 Fine-tuning allows us to do which of the following?<br><br>Answer:- Train an OpenAI model on our own data.
+
+### Q.2 Which of the following is FALSE about the OpenAI CLI?<br><br>Answer:- It only fine-tunes the GPT-4 model.
+
+### Q,3 Which of the following is TRUE about the characters we include in a 'stop sequence'<br><br>Answer:- They will never be included in a completion.
+
+### Q.4 What does the n_epoch parameter do in OpenAI?<br><br>Answer:- It sets the number of times the training data will be cycled through when fine-tuning a model. More cycles tends to improve performance.
+
+### Q.5 We can help a model better understand our prompts by doing which one of the following.<br><br>Answer:- Using separators in our prompts such as '->' or '###'.
+
+### Q.6 Which of the following is TRUE.<br><br>Answer:- An API key stored in an env variable is visible on the front end.
+
+### Q.7 Which of the following is FALSE about data when fine-tuning.<br><br>Answer:- In terms of accuracy, there is no performance advantage in using a larger data set.
+
+# Build AI Apps with ChatGPT, Dall-E, and GPT-4 (For Students Who have 2 Weeks in their course)
+
+## Week 1: Test your AI Engineering knowledge
+
+### Q.1 Setting the temperature property to a higher number makes the model…<br><br>Answer:- provide answers which are more creative and daring.
+
+### Q.2 When working with the OpenAI API, the objects that are held in the messages array each have a role property, but what values can the role property hold?<br><br>Answer:-system, user, assistant
+
+### Q.3 Which of the following is true about tokens and credit when using the OpenAI API?<br><br>Answer:- Both the words in the prompt you send to the API and the data you get back count towards the total number of tokens used.
+
+### Q.4 What does the frequency_penalty setting do?<br><br>Answer:- It gives the developer some control over the likelihood of words and phrases being repeated.
+
+### Q.5 When asking the OpenAI API to create images, which property or properties are required.<br><br>Answer:- prompt
+
 
