@@ -942,7 +942,7 @@ https://github.com/Bhanupriya-art/INT426-Coursera-Answers/assets/120407422/73d4d
 
 ## Week 11 Solution According to College IP
 
-## Link of Courses for week 10:- https://www.coursera.org/learn/rudi-hinds-chatgpt-playground-for-beginners-intro-to-nlp-ai<br><br>https://www.coursera.org/learn/build-ai-apps-with-chatgpt-dalle-gpt4
+## Link of Courses for week 11:- https://www.coursera.org/learn/rudi-hinds-chatgpt-playground-for-beginners-intro-to-nlp-ai<br><br>https://www.coursera.org/learn/build-ai-apps-with-chatgpt-dalle-gpt4
 
 # ChatGPT Playground for Beginners: Intro to NLP AI
 
@@ -1021,5 +1021,247 @@ https://github.com/Bhanupriya-art/INT426-Coursera-Answers/assets/120407422/73d4d
 ### Q.4 What does the frequency_penalty setting do?<br><br>Answer:- It gives the developer some control over the likelihood of words and phrases being repeated.
 
 ### Q.5 When asking the OpenAI API to create images, which property or properties are required.<br><br>Answer:- prompt
+
+## Week 12 & 13 Solution According to College IP
+
+## Link of Courses for week 12 & 13:- https://www.coursera.org/learn/chatgpt-advanced-data-analysis
+
+# ChatGPT Advanced Data Analysis
+
+## Week 1:- Ice Breaker Exercises with ChatGPT Advanced Data Analysis
+
+### Q.1 You will need to download this data, represented as comma separated values, that was extracted from Vanderbilt's financial reports:<br><br>Use the "+" button to attach the CSV file that you downloaded to the prompt and enter this text into the prompt:<br><br>---------<br><br>Draw four visualizations for me that show me interesting things in this dataset. The visualization should show unexpected things based on higher education trends.<br><br>Write 2-3 paragraphs describing the visualizations and what they show.<br><br>---------<br><br>Cut/paste the 2-3 paragraphs that Code Interpreter produces describing the data in as the answer. Do not include the images.<br><br>Answer:-
+```
+The first visualization is a stacked bar chart showing the total fall enrollment for undergraduate and graduate students from 2017/2018 to 2021/2022. The chart reveals that total enrollment has been increasing steadily, with a more significant jump between 2019/2020 and 2020/2021. The second visualization is a line chart displaying the number of degrees conferred in the same period. The chart shows a fluctuation in the number of conferred degrees, with a slight decrease in 2019/2020 and a significant increase in 2020/2021, which is unexpected as the total enrollment increased during this period.
+The third visualization is a scatter plot comparing the percentage increase in undergraduate tuition over the prior year and the yield rate for undergraduate admissions. The plot shows a positive correlation between the two variables, indicating that higher tuition increases are associated with higher yield rates. The fourth visualization is a line chart displaying the endowment per student from 2017 to 2021. The chart reveals a significant increase in endowment per student between 2019 and 2021, which is unexpected as the total enrollment also increased during this period. This suggests that Vanderbilt University's endowment has grown faster than its student population.
+```
+
+### Q.2 Please download a PDF of the paper "A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT" from here: https://arxiv.org/abs/2302.11382 <br><br>Use the "+" button to attach the PDF of the paper that you downloaded to the prompt and enter this text into the prompt:<br><br>---------<br><br>Please extract each page of this PDF to a plain text file. Then, manually read the first three pages and learn what a prompt pattern is. Don't worry if there are formatting issues, just do your best and proceed. Then, ask me to describe my job or interests. Use what I tell you to describe to me what a prompt pattern is assuming I have no background in computer science. Make sure and use concrete examples based on my job or interests to show how I could use these patterns.   Make sure and write some sample prompt patterns that could be cut/pasted into Code Interpreter for me to try out. Each pattern should rely on a document or dataset relevant to me. Describe the purpose of the pattern, the problem it is trying to solve, what data the pattern needs and why, and then the prompt that will be used on the document.<br><br>---------<br><br>Cut/paste the paragraphs that ChatGPT Advanced Data Analysis produces describing prompt patterns for you as the answer. <br><br>Answer:-
+```
+A prompt pattern is a structured approach used in programming conversational large language models (LLMs) like ChatGPT to customize their outputs and interactions. In simpler terms, a prompt pattern is a set of instructions that you provide to an LLM to guide it in generating specific types of content or responses. For example, if you work in marketing, a prompt pattern could be designed to extract key insights from customer feedback data. The purpose of this pattern would be to help the LLM analyze customer sentiments and preferences from the dataset, requiring the data to include customer feedback and reviews. The prompt for this pattern could be: "Analyze the customer feedback data to identify common themes and sentiments. Provide a summary of the main issues raised by customers and any positive feedback trends."
+Another example could be a prompt pattern for someone interested in sports analytics. This pattern could aim to extract statistics and trends from a sports performance dataset. The problem it solves is to help analyze player performance and team strategies based on historical data. The data needed would be the sports performance dataset containing player statistics, match outcomes, and team strategies. The prompt for this pattern could be: "Analyze the sports performance dataset to identify key player performance metrics and trends. Provide insights into player strengths, weaknesses, and correlations between performance metrics and match outcomes."
+These sample prompt patterns demonstrate how you can use structured instructions to guide an LLM in analyzing specific datasets related to your job or interests. By providing clear prompts tailored to your domain, you can leverage the power of LLMs like ChatGPT to extract valuable insights and information from complex datasets.
+```
+
+### Q.3 At the end of the conversation that you just did working with the paper "A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT", enter this prompt:<br><br>---------<br><br>Pick the ChatGPT Code Interpreter prompt pattern that you think would be most helpful to someone like me. Then, write a social media post about how you are taking the Coursera course "ChatGPT Code Interpreter by Jules White" and explain what Code Interpreter is, explain the problem the prompt pattern solves, what data you could upload with the prompt pattern, and what it would do for other people like me that would make their lives so much easier. Make the post exciting and have viral potential. Make sure readers have enough information to quickly cut/paste the pattern into Code Interpreter and know what to include with it in order to immediately take advantage of the prompt pattern.<br><br>----------<br><br>Cut/paste the social media post that it creates for you as the answer.<br><br>Answer:-
+```
+📚✨Excited to share my latest learning experience with the Coursera course "ChatGPT Code Interpreter" by Jules White! This powerful tool allows you to use prompts to extract insights from documents and datasets, making it a game-changer for data analysis and problem-solving.
+💡One prompt pattern that stood out to me is the "Visualization Generator" pattern. This pattern helps you create visualizations from data, making it easier to understand trends and patterns. To use it, simply upload your dataset and ask Code Interpreter to generate visualizations based on specific criteria.
+🌍For example, if you're interested in environmental trends, you could upload a dataset on air quality and ask Code Interpreter to create visualizations showing changes over time. This would make it easy to identify areas with the biggest improvements or declines in air quality, helping you make informed decisions.
+🤯The potential applications of this pattern are endless, from business to education to research. By making data more accessible and understandable, Code Interpreter can help us all make better decisions and solve complex problems.
+🔗To get started, simply cut and paste the following prompt into Code Interpreter: "Generate visualizations from this dataset based on the following criteria: [insert criteria here]". Then upload your dataset and watch the magic happen! #ChatGPTCodeInterpreter #DataAnalysis #Visualization #DataInsights #ProblemSolving #Coursera #JulesWhite
+```
+
+## Week 1:- Use ChatGPT Advanced Data Analysis to Help You Find Inspiration for Using It
+
+### Q.1 Combine the file and prompt from the "Use ChatGPT Advanced Data Analysis to Help You Find Inspiration for Using It" exercise to find use cases for Excel files based on your personal life. <br><br>Cut/paste the output as the solution.<br><br>Answer:-
+```
+Title: Enhance Your Personal Life with Excel and ChatGPT
+Description: ChatGPT, a powerful language model, can help you make the most of your Excel files in your personal life. Here are some use cases to inspire you:
+Budget Tracker: Create a budget tracker in Excel and use ChatGPT to analyze your spending habits, identify trends, and suggest ways to save money.
+Prompt: "Analyze my monthly spending data in this Excel file and provide insights on how to reduce expenses."
+Fitness Tracker: Keep track of your workouts and progress in Excel, and use ChatGPT to interpret the data, calculate statistics, and provide personalized recommendations.
+Prompt: "Evaluate my fitness data in this Excel file and suggest ways to improve my workout routine."
+Health Diary: Monitor your health and well-being in Excel, and let ChatGPT help you identify patterns, correlations, and potential health issues.
+Prompt: "Examine my health data in this Excel file and determine if there are any health concerns I should be aware of."
+Travel Planner: Organize your travel plans in Excel and have ChatGPT generate an itinerary, suggest activities, and provide local information.
+Prompt: "Create a travel itinerary based on my preferences and this Excel file containing my travel plans."
+Investment Portfolio: Manage your investments in Excel and use ChatGPT to assess your portfolio, calculate returns, and offer advice on diversification.
+Prompt: "Evaluate my investment portfolio in this Excel file and recommend ways to optimize it."
+By combining Excel and ChatGPT, you can unlock the full potential of your data and make informed decisions in various aspects of your personal life.
+What do you think? These use cases demonstrate how ChatGPT can help you make the most of your Excel files in your personal life. By providing clear prompts, you can harness the power of ChatGPT to analyze, interpret, and generate valuable insights from your data.
+```
+
+### Q.2 Combine the file and prompt from the "Use ChatGPT Advanced Data Analysis to Help You Find Inspiration for Using It" exercise to find use cases for PowerPoint files based on your work duties.<br><br>Cut/paste the output as the solution.<br><br>Answer:- 
+```
+Use Case: PowerPoint Presentations for Work Duties
+Problem: Creating engaging and effective PowerPoint presentations for work-related tasks can be time-consuming and challenging.
+Data: Upload a set of PowerPoint slides relevant to your work duties.
+Prompt Pattern: "Enhance these PowerPoint slides for a more engaging and informative presentation, focusing on [specific area of improvement, e.g., visual design, content organization, storytelling]."
+Example:
+Visual Design: "Improve the visual design of this PowerPoint presentation by incorporating relevant images, icons, and charts to enhance the overall look and feel."
+Content Organization: "Reorganize the content of this PowerPoint presentation to create a more logical flow and clearer hierarchy of information."
+Storytelling: "Transform this PowerPoint presentation into a compelling story that engages the audience and effectively communicates the key messages."
+```
+
+### Q.3 Combine the file and prompt from the "Use Code Interpreter to Help You Find Inspiration for Using It" exercise to find use cases for a Zip of image files to enhance your social media profile. <br><br>Answer:-
+```
+To enhance your social media profile, you can use a zip of image files and the power of ChatGPT Code Interpreter to generate captions, descriptions, or even analyze the content of the images to create a thematic series of posts. Here's a sample prompt pattern that you can use:
+Prompt Pattern: Image Analysis and Captioning
+Problem: You have a collection of images, and you want to create engaging social media posts with captions or descriptions that accurately represent the content of each image.
+Data: A zip file containing images (JPEG, PNG, or other supported formats) that you want to analyze or caption.
+Prompt: "Analyze the images in this zip file and generate captions or descriptions that accurately represent the content of each image. Ensure that the captions are engaging and suitable for social media platforms."
+```
+
+### Q.4 In one of the prior Code Interpreter conversations around finding inspiration, please use the following prompt to generate a social media post describing the example use case:<br><br>---------<br><br>Pick the ChatGPT Code Interpreter use case that you think would be most helpful to someone like me. Then, write a social media post about how you are taking the Coursera course "ChatGPT Code Interpreter by Jules White" and explain what Code Interpreter is, explain the problem the use case solves, what data you could upload to support the use case, and what it would do for other people like me that would make their lives so much easier. Make the post exciting and have viral potential. Make sure readers have enough information to quickly implement the idea by cutting / pasting some things into Code Interpreter and know what to include with it in order to immediately take advantage of the idea.<br><br>----------<br><br>Cut/paste the social media post in as your answer.<br><br>Answer:-
+```
+🚀Transform your software development tasks with ChatGPT Code Interpreter! 💻
+I'm taking the "ChatGPT Code Interpreter" course by Jules White on Coursera and I'm thrilled to share my experience with you! 📚
+Code Interpreter is a powerful tool that uses conversational large language models (LLMs) like ChatGPT to automate software development tasks. It does this by using prompts, which are instructions given to the LLM to customize its outputs and interactions. 🤖
+For example, you can use Code Interpreter to generate a Python script that automates the deployment of a Python application to AWS. Simply provide the necessary information about your application, and Code Interpreter will ask you questions to gather the required information. Once it has enough information, it will generate the script for you! 💡
+To use Code Interpreter, simply upload your data (such as an Excel file containing information about your application) and provide a prompt that tells the LLM what you want it to do. Code Interpreter will then generate the desired output for you. 📈
+By using Code Interpreter, you can save time and effort in your software development tasks, allowing you to focus on other important aspects of your work. Plus, it's easy to use and can be integrated directly into your preferred IDE! 💼
+If you're interested in learning more about Code Interpreter and how it can benefit you, be sure to check out the "ChatGPT Code Interpreter" course on Coursera! 🌟
+#ChatGPTCodeInterpreter #SoftwareDevelopment #Automation #AI #Coursera #JulesWhite
+```
+
+## Week 1:- Data to Content
+
+### Q.1 Download this CSV file containing data extracted from Vanderbilt's 2022 Financial Report:<br><br>Generate four different interesting visualizations of the data.<br><br>You can use a series of prompts as shown below to incrementally read the data, generate the visualizations, save them to files, and then create the PowerPoint:<br><br>"Read and explain all of the columns in the attached CSV file."<br><br>"Create four interesting visualizations of this data that show the school's admissions rate and other indicators of success over time and try to use the Vanderbilt school colors. Draw trend lines on all charts."<br><br>"Save each of these visualizations as a separate image file for me to download."<br><br>"Create a PowerPoint presentation for me that has each of these images as separate slides."<br><br>When you are done, ask Code Interpreter to summarize the work it did for you with a prompt like this:<br><br>"Output CSV describing the process that you just performed starting from the data and going all the way to the production of the slides."<br><br>Now, copy/paste this CSV output as the answer to this question.<br><br>Answer:-
+```
+To incrementally read the data, generate visualizations, save them to files, and create a PowerPoint presentation, you can use a series of prompts. First, you would ask the AI to read and explain all the columns in the attached CSV file. Then, you would prompt it to create four interesting visualizations of the data that display the school's admissions rate. This approach leverages prompt engineering techniques to guide the AI in processing the data and producing the desired visual outputs efficiently
+```
+
+### Q.2 Download this CSV file containing data extracted from Vanderbilt's 2022 Financial Report:<br><br>Generate an interesting social media post based on this data that is also related to what you do.You can use a series of prompts like this:<br><br>"Read and explain the data in the attached CSV file related to Vanderbilt University's 2022 finances."<br><br>"Ask me questions about what I do and then use my answers to create an interesting visualization of the data that I might be interested in."<br><br>"Find a really interesting insight in this data. Visualize the insight for me and save it as an image. Write a social media post explaining that you used prompts from the Coursera course 'ChatGPT Code Interpreter by Jules White' to create an interesting analysis of Vanderbilt's 2022 finances and include in the post the interesting thing seen in the visualization."<br><br> Submit the social media post as the answer to this question.<br><br>Answer:-
+```
+📈💡Excited to share a fascinating insight about Vanderbilt University's 2022 finances! Using prompts from the Coursera course 'ChatGPT Code Interpreter by Jules White', I discovered that the university's endowment per student has significantly increased between 2019 and 2021. This suggests that Vanderbilt's financial health is strong and growing. Check out the visualization below to see the trend for yourself! #VanderbiltFinances #ChatGPTCodeInterpreter #DataInsights
+By using prompts to analyze the data, I was able to uncover this insight quickly and easily. The ChatGPT Code Interpreter is a powerful tool for data analysis, and I'm excited to continue exploring its capabilities! #DataAnalysis #AI #MachineLearning
+```
+
+## Week 2:- Exploring Code Interpreter Use Cases
+
+### Q.1 Upload a document, such as something you have written, a PowerPoint presentation, a transcript from a recording of yourself talking on a subject, or something else that it can read for content ideas. Have Code Interpreter generate a set of four social media posts for you from the content. Make sure that Code Interpreter saves each post as a separate text file. When it is done, have it zip up all of the files for you to download.<br><br>Cut/paste two of the social media posts into the answer.<br><br>Answer:- 
+```
+The document discusses the importance of prompt engineering in conversing effectively with large language models (LLMs) like ChatGPT. Prompts are instructions given to LLMs to customize their outputs and interactions, acting as a form of programming to enhance the quality of generated content. The paper introduces a catalog of prompt patterns that provide reusable solutions to common problems faced when working with LLMs. These prompt patterns are analogous to software patterns, offering structured approaches to tailor LLM outputs and interactions effectively
+1
+.
+Prompt patterns are crucial in prompt engineering, offering a systematic way to program LLMs for various tasks. They provide a codified approach to customizing LLM outputs and interactions, enhancing the ability to enforce constraints, include relevant information, and change interaction formats to solve specific problems effectively. The document outlines the structure and key ideas of prompt patterns, emphasizing the importance of fundamental contextual statements to communicate key ideas clearly and intuitively to users
+1
+.
+The catalog of prompt patterns includes categories like Input Semantics, Output Customization, Error Identification, Prompt Improvement, and Interaction. Each category contains specific prompt patterns aimed at addressing different aspects of working with LLMs, such as creating custom languages for LLM understanding, automating output generation, fact-checking, refining prompts, and managing context during interactions. These patterns provide concrete guidance on how to structure prompts to achieve desired outcomes when working with conversational LLMs
+```
+
+### Q.2 Question 2
+Upload one or more images and have Code Interpreter create copies of each image in multiple different sizes. Have Code Interpreter create a CSV file with a catalog of the images and the transformations applied to the images.<br><br>Copy and paste just the prompts, not the images or outputs, that you used to complete the process as the answer.<br><br>Answer:-
+```
+Prompt 1:
+"Read and explain the data in the attached CSV file related to Vanderbilt University's 2022 finances."
+Prompt 2:
+"Ask me questions about what I do and then use my answers to create an interesting visualization of the data that I might be interested in."
+Prompt 3:
+"Find a really interesting insight in this data. Visualize the insight for me and save it as an image. Write a social media post explaining that you used prompts from the Coursera course 'ChatGPT Code Interpreter by Jules White' to create an interesting analysis of Vanderbilt's 2022 finances and include in the post the interesting thing seen in the visualization."
+Prompt 4:
+"Create a PowerPoint presentation for me that has each of these images as separate slides."
+Prompt 5:
+"Output CSV describing the process that you just performed starting from the data and going all the way to the production of the slides."
+```
+
+## Week 3:- Problem Solving & Question Generation
+
+### Q.1 Ask Code Interpreter to give you 5 different ways to solve a problem that it is important to you. Ask it for concrete ideas on how to solve the problem.<br><br>Cut/paste the answer from Code Interpreter as the solution.<br><br>Answer:-
+```
+Prompt 1:
+"Read and explain the data in the attached CSV file related to Vanderbilt University's 2022 finances."
+Prompt 2:
+"Ask me questions about what I do and then use my answers to create an interesting visualization of the data that I might be interested in."
+Prompt 3:
+"Find a really interesting insight in this data. Visualize the insight for me and save it as an image. Write a social media post explaining that you used prompts from the Coursera course 'ChatGPT Code Interpreter by Jules White' to create an interesting analysis of Vanderbilt's 2022 finances and include in the post the interesting thing seen in the visualization."
+Prompt 4:
+"Create a PowerPoint presentation for me that has each of these images as separate slides."
+Prompt 5:
+"Output CSV describing the process that you just performed starting from the data and going all the way to the production of the slides."
+```
+
+### Q.2 You are going to better prepare for your next meeting or class. Upload a document or presentation and have Code Interpreter read and give you 10 great questions related to the content.<br><br>Cut/paste Code Interpreter's response as the answer.<br><br>Answer:- 
+```
+The document titled "A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT" discusses the importance of prompt engineering in effectively interacting with large language models (LLMs) like ChatGPT. It introduces prompt patterns as reusable solutions to common problems faced when conversing with LLMs, providing a framework for structuring prompts to solve various issues across different domains. The paper emphasizes the significance of prompts in customizing LLM outputs and interactions, showcasing the power of prompts beyond conventional programming tasks. It also highlights the potential for prompts to create new interaction paradigms and facilitate self-adaptation, underscoring the value of prompt engineering in enhancing the capabilities of LLMs
+```
+
+## Week 4:- AI Planning
+
+### Q.1 Ask Code Interpreter to generate a step-by-step plan to solve a problem and save it as a file.<br><br>Cut/paste the plan in as the answer.<br><br>Answer:- 
+```
+Prompt Pattern: Visualization Generator
+Purpose: To create visualizations from data in a dataset.
+Problem: Analyzing data in a dataset can be challenging, especially when trying to identify trends or patterns. Visualizations can help make the data more accessible and easier to understand.
+Data needed: A dataset containing the data to be visualized.
+Prompt: "Create a visualization of the data in this dataset that highlights any trends or patterns. Use the school colors, Vanderbilt blue and gold, in the visualization."
+This prompt pattern can be used to generate visualizations of data in a dataset, making it easier to identify trends and patterns. The prompt includes instructions to use the school colors, Vanderbilt blue and gold, to make the visualization more visually appealing and consistent with the school's branding.
+Prompt Pattern: Data Insight Finder
+Purpose: To identify interesting insights in a dataset.
+Problem: Analyzing data in a dataset can be time-consuming, and it can be challenging to identify interesting insights without guidance.
+Data needed: A dataset containing the data to be analyzed.
+Prompt: "Find an interesting insight in this dataset and visualize it for me. Use the school colors, Vanderbilt blue and gold, in the visualization."
+This prompt pattern can be used to identify interesting insights in a dataset and visualize them for easier understanding. The prompt includes instructions to use the school colors, Vanderbilt blue and gold, to make the visualization more visually appealing and consistent with the school's branding.
+Prompt Pattern: Social Media Post Writer
+Purpose: To generate social media posts based on data in a dataset.
+Problem: Writing social media posts can be time-consuming, and it can be challenging to come up with interesting content without guidance.
+Data needed: A dataset containing the data to be used in the social media posts.
+Prompt: "Generate four social media posts for me based on the data in this dataset. Make sure each post is engaging and includes a visualization of the data."
+This prompt pattern can be used to generate social media posts based on data in a dataset, making it easier to create engaging content. The prompt includes instructions to include a visualization of the data in each post to make it more visually appealing and easier to understand.
+Prompt Pattern: PowerPoint Presenter
+Purpose: To create a PowerPoint presentation based on data in a dataset.
+Problem: Creating a PowerPoint presentation can be time-consuming, and it can be challenging to create a visually appealing and informative presentation without guidance.
+Data needed: A dataset containing the data to be used in the PowerPoint presentation.
+Prompt: "Create a PowerPoint presentation for me that includes visualizations of the data in this dataset. Make sure the presentation is visually appealing and easy to understand."
+This prompt pattern can be used to create a PowerPoint presentation based on data in a dataset, making it easier to create a visually appealing and informative presentation. The prompt includes instructions to include visualizations of the data in the presentation to make it more visually appealing and easier to understand.
+```
+
+### Q.2 Now, have Code Interpreter execute your plan.<br><br>Cut/paste the prompt you used to get Code Interpreter to execute your plan in as the answer.<br><br>Answer:-  
+```
+The document provided discusses the concept of prompt engineering in the context of conversing with large language models (LLMs) like ChatGPT. Prompts are instructions given to LLMs to customize their outputs and interactions, essentially programming them to generate specific content. Prompt patterns are introduced as reusable solutions to common problems faced when working with LLMs, similar to software patterns. These patterns aim to structure prompts effectively to achieve various output and interaction goals. The document compares software patterns with prompt patterns, highlighting the importance of documenting prompt patterns to enhance the interaction with LLMs in different contexts. It also discusses the structure and components of prompt patterns, emphasizing the need for clear and concise communication to users who may not be programmers. Additionally, it provides examples of prompt patterns, such as the Output Automater pattern, which instructs LLMs to generate automation artifacts like scripts to automate tasks. The document underscores the significance of engineering prompts to go beyond simple text or code generation, enabling LLMs to accomplish diverse tasks and interactions through well-crafted prompts
+```
+
+## Week 5:- Outlining for Content
+
+### Q.1 Have Code Interpreter write an outline for a presentation that you are going to give. The initial outline should have one bullet item per slide. Incrementally build out the outline so that it specifies what should go on each slide and stores the outline for each slide in a separate file.<br><br>Cut/paste the contents of one of these outlines in as the answer.<br><br>Answer:- 
+```
+Here is an outline for a presentation about prompt patterns for conversational large language models (LLMs):
+Introduction to prompt patterns
+Definition and purpose
+Comparison to software patterns
+Categories of prompt patterns
+Output Customization
+Output Automater pattern
+Persona pattern
+Visualization Generator pattern
+Recipe pattern
+Template pattern
+Error Identiﬁcation
+Fact Check List pattern
+Reﬂection pattern
+Prompt Improvement
+Question Reﬁnement pattern
+Alternative Approaches pattern
+Cognitive Veriﬁer pattern
+Refusal Breaker pattern
+Evaluating Means for Deﬁning a Prompt Pattern’s Structure and Ideas
+Challenges of deﬁning a prompt pattern’s structure
+Possible approaches for deﬁning a prompt pattern’s structure
+Importance of clear and concise communication
+Example Implementations
+Sample prompts for each pattern
+Explanation of how the prompts are worded in practice
+Consequences
+Pros and cons of applying each pattern
+Guidance on adapting the prompt to different contexts
+Conclusion
+Summary of the importance and benefits of prompt patterns
+Future directions for research and development
+This outline provides a comprehensive overview of the concept of prompt patterns and their applications in conversational LLMs. Each section includes specific examples and implementation details to help the audience understand the practical applications of these patterns. The presentation concludes with a summary of the key takeaways and future directions for research and development in this area.
+```
+
+### Q.2 Using the outline files that you just created, have Code Interpreter turn one of the outline for one of the slides into 3-5 paragraphs and save it as a separate file.<br><br>Cut/paste the paragraphs as your answer.<br><br>Answer:-
+```
+The prompt pattern catalog introduced in the paper is a collection of reusable solutions to common problems faced when conversing with conversational large language models (LLMs) like ChatGPT. These patterns are structured prompts that help users customize LLM outputs and interactions, similar to software patterns that provide reusable solutions for software development problems. The catalog includes prompt patterns for input semantics, output customization, error identification, prompt improvement, and interaction.
+Input semantics patterns focus on defining the input format and context for LLMs. These patterns include the Input Definition pattern, which specifies the input format and expected data types, and the Input Context pattern, which provides context to the LLM about the input data.
+Output customization patterns help users tailor the types, formats, structure, or other properties of the output generated by the LLM. These patterns include the Output Format pattern, which specifies the format of the output, and the Output Structure pattern, which defines the structure of the output.
+Error identification patterns focus on identifying and resolving errors in the output generated by the LLM. These patterns include the Error Detection pattern, which identifies errors in the output, and the Error Correction pattern, which corrects errors in the output.
+Prompt improvement patterns help users improve the quality of the input and output. These patterns include the Question Refinement pattern, which refines user questions to generate better output, and the Alternative Approaches pattern, which suggests alternative approaches to solving a problem.
+Interaction patterns focus on managing the interaction between the user and the LLM. These patterns include the Interaction Flow pattern, which defines the flow of the conversation, and the Interaction Context pattern, which provides context to the LLM about the conversation.
+The paper also discusses the challenges of defining a prompt pattern's structure and ideas, including the need for clear and concise communication to users who may not be programmers. It suggests several possible approaches for defining a prompt pattern's structure, including diagrams and grammars for a prompt language. However, the paper notes that grammars can be challenging to define due to the nuanced ways that components of a prompt can be expressed in text or symbols.
+In summary, the prompt pattern catalog introduced in the paper provides a collection of reusable solutions to common problems faced when conversing with conversational LLMs. These patterns help users customize LLM outputs and interactions, improve the quality of the input and output, and manage the interaction between the user and the LLM. The paper also discusses the challenges of defining a prompt pattern's structure and suggests several possible approaches for defining a prompt pattern's structure.
+```
+
+
+# END of The Courses!
+
+
+
+
+
+
+
+
 
 
